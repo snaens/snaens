@@ -1,6 +1,6 @@
 # MEDDL IHR WERNER!!!
-<img src="http://188.195.184.221/electrospoon.png" width="300">
+<img src="http://snaens.net/files/media/electrospoon.png" width="300">
 
 ### ROBOTS SIND TOLL
-<img src="http://188.195.184.221/plume.jpg" width="200">
+<img src="http://snaens.net/files/media/plume.jpg" width="200">
 

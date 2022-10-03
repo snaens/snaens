@@ -1,6 +1,5 @@
-# MEDDL IHR WERNER!!!
-<img src="http://snaens.net/files/media/electrospoon.png" width="300">
+## Henlo frens!
 
-### ROBOTS SIND TOLL
-<img src="http://snaens.net/files/media/plume.jpg" width="200">
+Most of my software is in the [pipeman organisation](https://github.com/The-Pipeman-Organisation).
 
+I have an awesome website! https://snaens.net  
